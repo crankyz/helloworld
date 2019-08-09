@@ -1,4 +1,4 @@
 var x
 for number in range(10):
-  x=x+number
+  x=x+1
 print(x)
